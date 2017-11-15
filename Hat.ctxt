@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=sz\ clr\ ft
+comment1.target=Hat(int,\ java.lang.String,\ boolean)
+comment2.params=ft
+comment2.target=void\ SetFit(boolean)
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
